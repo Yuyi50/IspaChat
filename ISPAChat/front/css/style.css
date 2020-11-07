@@ -1,0 +1,37 @@
+body{
+    background-image: url(fondo.png);
+    background-size: cover;
+    text-align: center;
+}
+h1, h2, h3, h4, h5, h6, p{
+    color: white;
+}
+.center{
+    text-align: center;
+}
+.left{
+    text-align: left;
+}
+.titulos{
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Lobster', cursive;
+    size: 75px;
+}
+table, td, tr{
+    text-align: center;
+}
+.table1{
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+.table2{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+.table3{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
